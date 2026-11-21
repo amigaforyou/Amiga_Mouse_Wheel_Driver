@@ -1,6 +1,6 @@
 # A1200Wheel — mouse wheel driver for the A1200HIDToDB9 adapter
 
-An AmigaOS driver for the [A1200HIDToDB9](https://github.com/amigaforyou/Amiga_Mouse_Wheel_Driver/blob) adapter. It adds support for the **scroll wheel**, **wheel tilt** (horizontal scrolling), **middle button** and **buttons 4/5** of a USB mouse.
+An AmigaOS driver for the [A1200HIDToDB9](https://github.com/amigaforyou/Amiga_Mouse_Wheel_Driver/photo/Dir_Wheel.jpg) adapter. It adds support for the **scroll wheel**, **wheel tilt** (horizontal scrolling), **middle button** and **buttons 4/5** of a USB mouse.
 
 Everything goes through **a single mouse port**, over the middle-button line (DB9 pin 5). The joystick port stays free.
 
